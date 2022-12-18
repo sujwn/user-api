@@ -1,7 +1,7 @@
 # User API
 
 ## Environment Variables
-Create `.env` file in project folder and fill all variables values with yours.
+Create `.env` file in project directory and fill all variables values with yours.
 ```
 NODE_ENV=
 PORT=
