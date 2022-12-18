@@ -13,8 +13,14 @@ TOKEN_SECRET_KEY=
 ## Install Dependencies
 In the project directory, run:
 ```
-npm i
+$ npm i
 ```
+## Run The Project
+In the project directory, run:
+```
+$ npm start
+```
+
 ## Features
 - [x] User Sign Up
 - [x] User Sign In
